@@ -1,0 +1,9 @@
+{
+  "/ventas/nuevo/page": "app/ventas/nuevo/page.js",
+  "/ventas/mostrar/page": "app/ventas/mostrar/page.js",
+  "/productos/mostrar/page": "app/productos/mostrar/page.js",
+  "/productos/modificar/[id]/page": "app/productos/modificar/[id]/page.js",
+  "/productos/nuevo/page": "app/productos/nuevo/page.js",
+  "/usuarios/mostrar/page": "app/usuarios/mostrar/page.js",
+  "/usuarios/modificar/[id]/page": "app/usuarios/modificar/[id]/page.js"
+}
